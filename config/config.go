@@ -6,7 +6,7 @@ import (
 	"reflect"
 
 	"github.com/ilyakaznacheev/cleanenv"
-	"github.com/nvr-ai/go-util/validation"
+	"github.com/infraregistry/util/validation"
 )
 
 // BaseConfig is inherited by caller configs.
